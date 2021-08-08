@@ -1,6 +1,4 @@
-- Hi, I’m @YangSheepBlackCat
-- I’m interested in coding
-- I’m currently learning machine learning
+
 
 <!---
 YangSheepBlackCat/YangSheepBlackCat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
