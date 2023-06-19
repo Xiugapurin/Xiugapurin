@@ -1,3 +1,5 @@
-# About me
+## About me
 
-An university student. Learning web programming now.
+> An university student.
+> 
+> Still Learning web programming.
