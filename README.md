@@ -1,4 +1,4 @@
-# Hi there, I'm Xiu 👋 
+# Hi there 👋 
 
 I am a software engineer with a Master's degree in IM from **National Taiwan University**. I am passionate about **Software Engineering** and **Machine Learning**, with a specialized research focus in **MIR** and **Music Generation**. I enjoy building applications and solving problems using Python and JavaScript.
 
@@ -16,11 +16,11 @@ I am a software engineer with a Master's degree in IM from **National Taiwan Uni
 
 - MIR (Music Information Retrieval)
 - Music Generation
-- Software Engineering
 - Machine Learning
 - LLM & RAG
-- Python, JavaScript
-- React.js & Next.js & Vue.js 
+- Software Engineering
+- Python / JavaScript / TypeScript
+- React.js / Next.js / Vue.js / Angular
 - UI/UX Design
 
 ## 📫 **Contact**
