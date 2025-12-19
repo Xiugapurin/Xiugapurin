@@ -22,7 +22,3 @@ I am a software engineer with a Master's degree in IM from **National Taiwan Uni
 - Python / JavaScript / TypeScript
 - React.js / Next.js / Vue.js / Angular
 - UI/UX Design
-
-## 📫 **Contact**
-
-✉️ Email: [jason32567810@gmail.com ](mailto:jason32567810@gmail.com)
